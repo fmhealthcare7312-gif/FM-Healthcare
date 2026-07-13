@@ -1,78 +1,167 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-<meta charset="UTF-8">
-<meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>FM Healthcare</title>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>FM Healthcare</title>
 
-<link rel="stylesheet" href="style.css">
+    <link rel="stylesheet" href="style.css">
 
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700&display=swap" rel="stylesheet">
 </head>
 
 <body>
 
-<header>
+<header class="header">
 
-<h2>FM Healthcare</h2>
+    <div class="logo">
+        <img src="images/logo.png" alt="FM Healthcare Logo">
+        <div>
+            <h2>FM Healthcare</h2>
+            <span>Your Health, Our Priority</span>
+        </div>
+    </div>
 
-<nav>
-
-<a href="index.html">Home</a>
-<a href="about.html">About</a>
-<a href="doctors.html">Doctors</a>
-<a href="services.html">Services</a>
-<a href="tests.html">Tests</a>
-<a href="appointment.html">Appointment</a>
-<a href="report.html">Report</a>
-<a href="contact.html">Contact</a>
-
-</nav>
+    <nav>
+        <a href="index.html">Home</a>
+        <a href="about.html">About</a>
+        <a href="doctors.html">Doctors</a>
+        <a href="services.html">Services</a>
+        <a href="tests.html">Tests</a>
+        <a href="appointment.html">Appointment</a>
+        <a href="report.html">Report</a>
+        <a href="contact.html">Contact</a>
+    </nav>
 
 </header>
 
-<section>
+<section class="hero">
 
-<h1>Welcome to FM Healthcare</h1>
+    <img src="images/banner.png" alt="FM Healthcare Banner" class="hero-banner">
 
-<p>Quality Healthcare You Can Trust</p>
+    <div class="hero-content">
 
-<button>Book Appointment</button>
+        <h1>FM Healthcare</h1>
 
-<a href="tel:7319085029">
-<button>Call Now</button>
-</a>
+        <p>Your Health, Our Priority</p>
+
+        <div class="hero-buttons">
+
+            <a href="appointment.html" class="btn">
+                Book Appointment
+            </a>
+
+            <a href="tel:7319085029" class="btn btn-outline">
+                Call Now
+            </a>
+
+        </div>
+
+    </div>
 
 </section>
+<section class="about">
+
+    <div class="about-text">
+
+        <h2>Welcome to FM Healthcare</h2>
+
+        <p>
+            FM Healthcare is committed to providing quality healthcare services
+            with experienced doctors, modern laboratory facilities,
+            pharmacy services and patient-friendly care.
+        </p>
+
+        <a href="about.html" class="btn">
+            Learn More
+        </a>
+
+    </div>
+
+    <div class="about-image">
+
+        <img src="images/building.png" alt="FM Healthcare Building">
+
+    </div>
+
+</section>
+
 
 <section class="services">
+
     <h2>Our Services</h2>
 
-    <div class="card">
-        <h3>Laboratory</h3>
-        <p>All Diagnostic Tests Available</p>
+    <div class="service-grid">
+
+        <div class="card">
+            <h3>Doctor Consultation</h3>
+            <p>Experienced Specialist Doctors</p>
+        </div>
+
+        <div class="card">
+            <h3>Laboratory</h3>
+            <p>Reliable Diagnostic Tests</p>
+        </div>
+
+        <div class="card">
+            <h3>Pharmacy</h3>
+            <p>Quality Medicines Available</p>
+        </div>
+
+        <div class="card">
+            <h3>ECG & USG</h3>
+            <p>Advanced Diagnostic Services</p>
+        </div>
+
     </div>
 
-    <div class="card">
-        <h3>Doctors Consultation</h3>
-        <p>Experienced Specialist Doctors</p>
+</section>
+<section class="featured-doctors">
+
+    <h2>Our Doctors</h2>
+
+    <div class="doctor-grid">
+
+        <div class="card">
+            <img src="images/doctor1.png" alt="Doctor 1">
+            <h3>Dr. Abhijit Bhattacharyya</h3>
+            <p>Consultant General Physician</p>
+            <a href="doctors.html" class="btn">View Profile</a>
+        </div>
+
+        <div class="card">
+            <img src="images/doctor2.png" alt="Doctor 2">
+            <h3>Doctor 2</h3>
+            <p>Specialist</p>
+            <a href="doctors.html" class="btn">View Profile</a>
+        </div>
+
+        <div class="card">
+            <img src="images/doctor5.png" alt="Doctor 5">
+            <h3>Doctor 5</h3>
+            <p>Specialist</p>
+            <a href="doctors.html" class="btn">View Profile</a>
+        </div>
+
     </div>
 
-    <div class="card">
-        <h3>Health Checkup</h3>
-        <p>Complete Health Packages</p>
-    </div>
 </section>
 
-<section class="doctors">
-    <h2>Today's Doctors</h2>
+<footer>
 
-    <div class="card">
-        <h3>Dr. Name</h3>
-        <p>11:30 AM - 1:30 PM</p>
-    </div>
-</section><footer>
+    <h2>FM Healthcare</h2>
 
-<p>© FM Healthcare 2026</p>
+    <p>Your Health, Our Priority</p>
+
+    <p>📍 Hatjan Bazar, Near Kisan Mandi, Suri</p>
+
+    <p>📞 +91 73190 85029</p>
+
+    <p>✉️ fmhealthcare7312@gmail.com</p>
+
+    <p>© 2026 FM Healthcare. All Rights Reserved.</p>
 
 </footer>
 
