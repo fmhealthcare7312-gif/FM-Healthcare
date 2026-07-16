@@ -1069,3 +1069,345 @@ transition:all .35s ease;
 background:#0B4EA2;
 color:#fff;
 }
+/* ===================================================
+   TEST PRICE PAGE - PREMIUM V2
+=================================================== */
+
+.test-hero{
+    background:linear-gradient(135deg,#0B4EA2,#1B75D0,#2E8B57);
+    color:#fff;
+    padding:80px 20px;
+    text-align:center;
+}
+
+.test-hero h1{
+    font-size:48px;
+    font-weight:800;
+    margin-bottom:15px;
+}
+
+.test-hero p{
+    max-width:700px;
+    margin:0 auto 35px;
+    font-size:18px;
+    opacity:.95;
+    line-height:1.8;
+}
+
+.search-box{
+    max-width:700px;
+    margin:auto;
+    background:#fff;
+    border-radius:60px;
+    display:flex;
+    align-items:center;
+    padding:8px 25px;
+    box-shadow:0 15px 40px rgba(0,0,0,.15);
+}
+
+.search-box i{
+    color:#0B4EA2;
+    font-size:20px;
+    margin-right:15px;
+}
+
+.search-box input{
+    width:100%;
+    border:none;
+    outline:none;
+    font-size:17px;
+    padding:18px 5px;
+    font-family:Poppins,sans-serif;
+    background:transparent;
+}
+
+.test-info{
+    margin-top:-45px;
+    margin-bottom:60px;
+}
+
+.test-info .container{
+    display:grid;
+    grid-template-columns:repeat(4,1fr);
+    gap:25px;
+}
+
+.info-card{
+    background:#fff;
+    border-radius:18px;
+    text-align:center;
+    padding:30px 20px;
+    box-shadow:0 10px 35px rgba(0,0,0,.08);
+    transition:.3s;
+}
+
+.info-card:hover{
+    transform:translateY(-8px);
+}
+
+.info-card i{
+    font-size:42px;
+    color:#0B4EA2;
+    margin-bottom:18px;
+}
+
+.info-card h3{
+    font-size:30px;
+    color:#0B4EA2;
+    margin-bottom:8px;
+}
+
+.info-card p{
+    color:#666;
+    font-size:15px;
+}
+/* ==========================================
+   PREMIUM TABLE
+========================================== */
+
+.price-section{
+    padding:20px 0 70px;
+}
+
+.table-box{
+    background:#fff;
+    border-radius:20px;
+    overflow:hidden;
+    box-shadow:0 15px 40px rgba(0,0,0,.08);
+}
+
+#priceTable{
+    width:100%;
+    border-collapse:collapse;
+}
+
+#priceTable thead{
+    background:linear-gradient(90deg,#0B4EA2,#2E8B57);
+    color:#fff;
+}
+
+#priceTable th{
+    padding:20px;
+    text-align:left;
+    font-size:16px;
+    font-weight:700;
+    letter-spacing:.5px;
+}
+
+#priceTable td{
+    padding:18px 20px;
+    border-bottom:1px solid #edf2f7;
+    font-size:15px;
+}
+
+#priceTable tbody tr:nth-child(even){
+    background:#f8fbff;
+}
+
+#priceTable tbody tr:hover{
+    background:#eef8ff;
+    transition:.25s;
+}
+
+/* ==========================================
+   HOME COLLECTION
+========================================== */
+
+.home-collection{
+    padding:20px 0 70px;
+}
+
+.collection-card{
+    background:linear-gradient(135deg,#0B4EA2,#2E8B57);
+    color:#fff;
+    border-radius:20px;
+    padding:35px;
+    display:flex;
+    justify-content:space-between;
+    align-items:center;
+    gap:30px;
+}
+
+.collection-left{
+    display:flex;
+    align-items:center;
+    gap:20px;
+}
+
+.collection-left i{
+    font-size:55px;
+}
+
+.collection-left h2{
+    margin-bottom:10px;
+}
+
+.book-btn{
+    background:#fff;
+    color:#0B4EA2;
+    padding:15px 30px;
+    border-radius:50px;
+    font-weight:700;
+    text-decoration:none;
+    transition:.3s;
+}
+
+.book-btn:hover{
+    background:#f4f4f4;
+    transform:translateY(-3px);
+}
+
+/* ==========================================
+   DOWNLOAD
+========================================== */
+
+.download-price{
+    padding-bottom:70px;
+}
+
+.download-box{
+    background:#fff;
+    border-radius:20px;
+    text-align:center;
+    padding:50px 30px;
+    box-shadow:0 12px 35px rgba(0,0,0,.08);
+}
+
+.download-box h2{
+    color:#0B4EA2;
+    margin-bottom:15px;
+}
+
+.download-box p{
+    color:#666;
+    margin-bottom:30px;
+}
+
+.download-btn{
+    display:inline-block;
+    background:linear-gradient(90deg,#0B4EA2,#2E8B57);
+    color:#fff;
+    text-decoration:none;
+    padding:15px 35px;
+    border-radius:50px;
+    font-weight:700;
+    transition:.3s;
+}
+
+.download-btn:hover{
+    transform:translateY(-3px);
+    box-shadow:0 10px 25px rgba(0,0,0,.15);
+}
+/* ==========================================
+   FOOTER
+========================================== */
+
+footer{
+    background:#0b2343;
+    color:#fff;
+    text-align:center;
+    padding:25px 20px;
+    margin-top:40px;
+}
+
+footer p{
+    margin:0;
+    font-size:15px;
+    opacity:.9;
+}
+
+/* ==========================================
+   SMOOTH ANIMATION
+========================================== */
+
+.info-card,
+.table-box,
+.collection-card,
+.download-box{
+    animation:fadeUp .6s ease;
+}
+
+@keyframes fadeUp{
+    from{
+        opacity:0;
+        transform:translateY(25px);
+    }
+    to{
+        opacity:1;
+        transform:translateY(0);
+    }
+}
+
+/* ==========================================
+   RESPONSIVE
+========================================== */
+
+@media(max-width:992px){
+
+.test-info .container{
+    grid-template-columns:repeat(2,1fr);
+}
+
+.collection-card{
+    flex-direction:column;
+    text-align:center;
+}
+
+.collection-left{
+    flex-direction:column;
+}
+
+}
+
+@media(max-width:768px){
+
+.test-hero{
+    padding:60px 20px;
+}
+
+.test-hero h1{
+    font-size:32px;
+}
+
+.test-hero p{
+    font-size:15px;
+}
+
+.search-box{
+    border-radius:15px;
+    padding:8px 15px;
+}
+
+.search-box input{
+    padding:14px 5px;
+    font-size:15px;
+}
+
+.test-info .container{
+    grid-template-columns:1fr;
+}
+
+.table-box{
+    overflow-x:auto;
+}
+
+#priceTable{
+    min-width:700px;
+}
+
+.info-card{
+    padding:25px 15px;
+}
+
+.download-box{
+    padding:35px 20px;
+}
+
+.download-btn,
+.book-btn{
+    display:inline-block;
+    width:100%;
+    max-width:300px;
+}
+
+}
