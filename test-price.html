@@ -6,53 +6,64 @@
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
-<title>Test Price | FM Healthcare</title>
+<title>Test Price List | FM Healthcare</title>
 
 <link rel="stylesheet" href="style.css">
 
 <link rel="preconnect" href="https://fonts.googleapis.com">
+
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 
 <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700;800&display=swap" rel="stylesheet">
 
 <link rel="stylesheet"
-href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.2/css/all.min.css">
+href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.7.2/css/all.min.css">
 
 </head>
 
 <body>
 
-<!-- ================= TOP BAR ================= -->
+<!-- TOP BAR -->
 
 <div class="top-bar">
 
 <div class="container">
 
-<div class="top-left">
+<div>
 
-<span><i class="fa-solid fa-phone"></i> +91 73190 85029</span>
+<i class="fa-solid fa-phone"></i>
 
-<span><i class="fa-solid fa-envelope"></i> fmhealthcare7312@gmail.com</span>
-
-</div>
-
-<div class="top-right">
-
-<span><i class="fa-solid fa-location-dot"></i> Hatjan Bazar, Near Kisan Mandi, Suri</span>
++91 73190 85029
 
 </div>
 
+<div>
+
+<i class="fa-solid fa-envelope"></i>
+
+fmhealthcare7312@gmail.com
+
+</div>
+
+<div>
+
+<i class="fa-solid fa-location-dot"></i>
+
+Hatjan Bazar, Near Kisan Mandi, Suri
+
+</div>
+
 </div>
 
 </div>
 
-<!-- ================= HEADER ================= -->
+<!-- HEADER -->
 
 <header>
 
 <div class="container navbar">
 
-<div class="logo">
+<a href="index.html" class="logo">
 
 <img src="images/logo.png" alt="FM Healthcare">
 
@@ -70,65 +81,52 @@ href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.2/css/all.min.css"
 
 </div>
 
-</div>
+</a>
 
 <nav>
 
 <a href="index.html">Home</a>
 
-<a href="doctors.html">Doctors</a>
+<a href="about.html">About</a>
 
-<a href="services.html">Services</a>
+<a href="doctors.html">Doctors</a>
 
 <a href="test-price.html" class="active">Test Price</a>
 
-<a href="contact.html">Contact</a>
-
 </nav>
-
-<a href="tel:+917319085029" class="call-btn">
-
-Call Now
-
-</a>
 
 </div>
 
 </header>
 
-<!-- ================= HERO ================= -->
+<!-- HERO -->
 
-<section class="page-hero">
+<section class="test-hero">
 
 <div class="container">
 
-<h1>Test Price List</h1>
+<h1>
+
+Laboratory Test Price List
+
+</h1>
 
 <p>
 
-Search any laboratory test to instantly view the
-
-MRP and Report Delivery Time.
+Search over 352 Laboratory Tests with Updated MRP & Reporting Time
 
 </p>
-
-</div>
-
-</section>
-
-<!-- ================= SEARCH ================= -->
-
-<section class="test-search">
-
-<div class="container">
 
 <div class="search-box">
 
 <i class="fa-solid fa-magnifying-glass"></i>
 
 <input
+
 type="text"
+
 id="searchInput"
+
 placeholder="Search Test Name...">
 
 </div>
@@ -137,34 +135,49 @@ placeholder="Search Test Name...">
 
 </section>
 
-<!-- PART 2 START BELOW -->
-  <!-- ================= CATEGORY FILTER ================= -->
+<!-- INFO CARDS -->
 
-<section class="test-filter">
+<section class="test-info">
 
 <div class="container">
 
-<div class="filter-buttons">
+<div class="info-card">
 
-<button class="active">All Tests</button>
+<i class="fa-solid fa-vial-circle-check"></i>
 
-<button>Blood</button>
+<h3>352+</h3>
 
-<button>Diabetes</button>
+<p>Laboratory Tests</p>
 
-<button>Thyroid</button>
+</div>
 
-<button>Liver</button>
+<div class="info-card">
 
-<button>Kidney</button>
+<i class="fa-solid fa-truck-medical"></i>
 
-<button>Vitamin</button>
+<h3>Available</h3>
 
-<button>Hormone</button>
+<p>Home Blood Collection</p>
 
-<button>Heart</button>
+</div>
 
-<button>Urine</button>
+<div class="info-card">
+
+<i class="fa-solid fa-file-waveform"></i>
+
+<h3>Fast</h3>
+
+<p>Reporting Time</p>
+
+</div>
+
+<div class="info-card">
+
+<i class="fa-solid fa-tags"></i>
+
+<h3>Updated</h3>
+
+<p>Latest MRP</p>
 
 </div>
 
@@ -172,13 +185,13 @@ placeholder="Search Test Name...">
 
 </section>
 
-<!-- ================= TEST PRICE TABLE ================= -->
+<!-- TABLE START -->
 
-<section class="price-table">
+<section class="price-section">
 
 <div class="container">
 
-<div class="table-wrapper">
+<div class="table-box">
 
 <table id="priceTable">
 
@@ -196,65 +209,8 @@ placeholder="Search Test Name...">
 
 </thead>
 
-<tbody>
-
-<!--
-PDF অনুযায়ী Data এখানে বসবে।
-
-Example:
--->
-
-<tr>
-
-<td>CBC</td>
-
-<td>Same Day</td>
-
-<td>250</td>
-
-</tr>
-
-<tr>
-
-<td>Blood Sugar (Fasting)</td>
-
-<td>Same Day</td>
-
-<td>80</td>
-
-</tr>
-
-<tr>
-
-<td>HbA1c</td>
-
-<td>Same Day</td>
-
-<td>450</td>
-
-</tr>
-
-<tr>
-
-<td>Thyroid Profile (T3,T4,TSH)</td>
-
-<td>Next Day</td>
-
-<td>450</td>
-
-</tr>
-
-<tr>
-
-<td>Liver Function Test (LFT)</td>
-
-<td>Next Day</td>
-
-<td>650</td>
-
-</tr>
-
-</tbody>
+<tbody id="tableBody">
+  </tbody>
 
 </table>
 
@@ -264,118 +220,96 @@ Example:
 
 </section>
 
-<!-- PART 3 START BELOW -->
-<!-- ================= FOOTER ================= -->
+<!-- HOME COLLECTION -->
+
+<section class="home-collection">
+
+<div class="container">
+
+<div class="collection-card">
+
+<div class="collection-left">
+
+<i class="fa-solid fa-house-medical-circle-check"></i>
+
+<div>
+
+<h2>Home Blood Collection Available</h2>
+
+<p>
+Book your blood sample collection from the comfort of your home.
+Fast, Safe & Hygienic Service.
+</p>
+
+</div>
+
+</div>
+
+<div class="collection-right">
+
+<a href="tel:+917319085029" class="book-btn">
+
+<i class="fa-solid fa-phone"></i>
+
+Call Now
+
+</a>
+
+</div>
+
+</div>
+
+</div>
+
+</section>
+
+<!-- DOWNLOAD PRICE LIST -->
+
+<section class="download-price">
+
+<div class="container">
+
+<div class="download-box">
+
+<h2>Download Complete Test Price List</h2>
+
+<p>
+
+Download the latest laboratory test price list in PDF format.
+
+</p>
+
+<a href="price-list.pdf" class="download-btn">
+
+<i class="fa-solid fa-download"></i>
+
+Download PDF
+
+</a>
+
+</div>
+
+</div>
+
+</section>
+
+<!-- FOOTER -->
 
 <footer>
 
 <div class="container">
 
-<div class="footer-grid">
-
-<div>
-
-<img src="images/logo.png" class="footer-logo" alt="FM Healthcare">
-
-<h3><span class="blue">FM</span> <span class="green">Healthcare</span></h3>
-
-<p>Your Health, Our Priority.</p>
-
-<p>Quality Healthcare, Laboratory, Pharmacy, ECG, USG & Home Blood Collection.</p>
-
-</div>
-
-<div>
-
-<h4>Quick Links</h4>
-
-<ul>
-
-<li><a href="index.html">Home</a></li>
-
-<li><a href="doctors.html">Doctors</a></li>
-
-<li><a href="services.html">Services</a></li>
-
-<li><a href="contact.html">Contact</a></li>
-
-</ul>
-
-</div>
-
-<div>
-
-<h4>Patient Services</h4>
-
-<ul>
-
-<li><a href="test-price.html">Test Price</a></li>
-
-<li><a href="report.html">Download Report</a></li>
-
-<li><a href="#">Home Blood Collection</a></li>
-
-<li><a href="#">Health Packages</a></li>
-
-</ul>
-
-</div>
-
-<div>
-
-<h4>Contact</h4>
-
-<p>📍 Hatjan Bazar, Near Kisan Mandi, Suri</p>
-
-<p>📞 +91 73190 85029</p>
-
-<p>✉️ fmhealthcare7312@gmail.com</p>
-
-</div>
-
-</div>
-
-<div class="copyright">
+<p>
 
 © 2026 FM Healthcare. All Rights Reserved.
 
-</div>
+</p>
 
 </div>
 
 </footer>
 
-<!-- ================= SEARCH SCRIPT ================= -->
-
-<script>
-
-const searchInput=document.getElementById("searchInput");
-
-searchInput.addEventListener("keyup",function(){
-
-let filter=searchInput.value.toUpperCase();
-
-let table=document.getElementById("priceTable");
-
-let tr=table.getElementsByTagName("tr");
-
-for(let i=1;i<tr.length;i++){
-
-let td=tr[i].getElementsByTagName("td")[0];
-
-if(td){
-
-let txt=td.textContent||td.innerText;
-
-tr[i].style.display=txt.toUpperCase().indexOf(filter)>-1?"":"none";
-
-}
-
-}
-
-});
-
-</script>
+<script src="script.js"></script>
 
 </body>
 
