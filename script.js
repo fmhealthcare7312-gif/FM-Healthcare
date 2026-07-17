@@ -54,5 +54,9 @@ async function loadTestPrices() {
     });
 
 }
+console.log("Script Loaded");
 
+document.getElementById("searchInput").addEventListener("input", function () {
+    console.log("Typing:", this.value);
+});
 loadTestPrices();
