@@ -1,1 +1,1762 @@
-
+[
+  {
+    "test": "ACP - Acid Phosphatase - Total",
+    "price": 200,
+    "report": "Next Day"
+  },
+  {
+    "test": "ACR - Micro Albumin & Creatinine Ratio",
+    "price": 450,
+    "report": "Next Day"
+  },
+  {
+    "test": "AEC - Absolute Eosinophil Count",
+    "price": 120,
+    "report": "Same day"
+  },
+  {
+    "test": "A.F.B Stain (Zn Stain) - Any Sample",
+    "price": 300,
+    "report": "Next Day"
+  },
+  {
+    "test": "Albumine - Serum",
+    "price": 120,
+    "report": "Same day"
+  },
+  {
+    "test": "ALP - Alkaline Phosphatase",
+    "price": 130,
+    "report": "Same day"
+  },
+  {
+    "test": "AMH - Anti Mullerian Hormone",
+    "price": 2500,
+    "report": "Next Day"
+  },
+  {
+    "test": "Amylase - Serum",
+    "price": 350,
+    "report": "Same Day"
+  },
+  {
+    "test": "ANA/ANF - Anti Nuclear Antibody/Factor - Screen",
+    "price": 700,
+    "report": "Next Day"
+  },
+  {
+    "test": "Anti CCP Antibody- Anti Cyclic Citrulinaed Peptide\nAntibody",
+    "price": 1000,
+    "report": "Next Day"
+  },
+  {
+    "test": "APTT - Activated Partial Thromboplastin Time",
+    "price": 400,
+    "report": "Next Day"
+  },
+  {
+    "test": "ASO - Anti Streptolysin O",
+    "price": 400,
+    "report": "Next Day"
+  },
+  {
+    "test": "ADA - Adenosine Deaminase - Any Sample",
+    "price": 650,
+    "report": "Next Day"
+  },
+  {
+    "test": "Beta HCG - Total - Serum",
+    "price": 700,
+    "report": "Next Day"
+  },
+  {
+    "test": "Bicarbonate (HC03) - Serum",
+    "price": 200,
+    "report": "Next Day"
+  },
+  {
+    "test": "Bicarbonate (HC03) - Urine",
+    "price": 250,
+    "report": "Next Day"
+  },
+  {
+    "test": "Bilirubin - Total, Direct, Indirect",
+    "price": 180,
+    "report": "Same day"
+  },
+  {
+    "test": "Blood Groping  - ABO & Rh Factor",
+    "price": 60,
+    "report": "Same day"
+  },
+  {
+    "test": "Blood Sugar (FBS/PPBS/RBS) - Blood Glucose",
+    "price": 60,
+    "report": "Same day"
+  },
+  {
+    "test": "BT, CT- Bleeding Time, Clotting Time",
+    "price": 50,
+    "report": "Same day"
+  },
+  {
+    "test": "C. Defficile - Clostridium Defficile - GDH Reflex\nToxin -A or B - Stool",
+    "price": 2500,
+    "report": "Next Day"
+  },
+  {
+    "test": "Calcitonin / Thyrocalcitonin",
+    "price": 2000,
+    "report": "Next Day"
+  },
+  {
+    "test": "Calprotectin - Stool",
+    "price": 3000,
+    "report": "Next Day"
+  },
+  {
+    "test": "CBC (Complete Blood Count ) - Hemogram",
+    "price": 300,
+    "report": "Same day"
+  },
+  {
+    "test": "CCT - Creatinine Clearance Test - 24 Hours. Urine",
+    "price": 450,
+    "report": "Next Day"
+  },
+  {
+    "test": "Cholesterol - Total Cholesterol",
+    "price": 120,
+    "report": "Same day"
+  },
+  {
+    "test": "CK MB - Creatinine Kinase - Musscle & Brain",
+    "price": 380,
+    "report": "Next Day"
+  },
+  {
+    "test": "CK NAC - Creatinine Kinase - N Acetyl Cystein",
+    "price": 280,
+    "report": "Next Day"
+  },
+  {
+    "test": "Complete Serology (HIV I & II, HCV, HBsAg) - Screen",
+    "price": 700,
+    "report": "Same day"
+  },
+  {
+    "test": "Coomb’s Test - Direct - Anti Globulin Test - Direct -\nDCT",
+    "price": 300,
+    "report": "Next Day"
+  },
+  {
+    "test": "Coomb’s Test - Indirect - Anti Globulin Test -\nIndirect - ICT",
+    "price": 350,
+    "report": "Next Day"
+  },
+  {
+    "test": "Cortisol - 24 Hours. Urine",
+    "price": 900,
+    "report": "Next Day"
+  },
+  {
+    "test": "Cortisol - Evening / Moring - Serum",
+    "price": 600,
+    "report": "Next Day"
+  },
+  {
+    "test": "Creatinine - Serum",
+    "price": 160,
+    "report": "Same day"
+  },
+  {
+    "test": "CRP - C-Reactive Protein",
+    "price": 300,
+    "report": "Same day"
+  },
+  {
+    "test": "D Dimer",
+    "price": 1200,
+    "report": "Next Day"
+  },
+  {
+    "test": "Dengue - IgG / IgM - Antibody",
+    "price": 600,
+    "report": "Next Day"
+  },
+  {
+    "test": "Dengue - NS1 - Antigen",
+    "price": 800,
+    "report": "Next Day"
+  },
+  {
+    "test": "Direct Bilirubin - Serum",
+    "price": 120,
+    "report": "Same day"
+  },
+  {
+    "test": "Electrolytes Panel (Na⁺, K⁺, Cl⁻, IONIC CALCIUM) - Serum",
+    "price": 600,
+    "report": "Same day"
+  },
+  {
+    "test": "Electrophoresis - Hb - Abnormal Haemoglobin\nStudies",
+    "price": 700,
+    "report": "2 Days"
+  },
+  {
+    "test": "Folic Acid - Vitamin B9",
+    "price": 1000,
+    "report": "Next Day"
+  },
+  {
+    "test": "G6PD - Glucose 6-Phosphate Dehydrogenase\n(Quantitative)",
+    "price": 400,
+    "report": "Next Day"
+  },
+  {
+    "test": "GeneXpert - MTB/RIF - TB With Rifampicin\nResitance PCR",
+    "price": 4000,
+    "report": "Next Day"
+  },
+  {
+    "test": "Gram Stain",
+    "price": 220,
+    "report": "2 Days"
+  },
+  {
+    "test": "Hb% - Hemoglobin",
+    "price": 80,
+    "report": "Same day"
+  },
+  {
+    "test": "Hb%, TC, DC - Hemoglobin, Total Count, Differential Count",
+    "price": 100,
+    "report": "Same day"
+  },
+  {
+    "test": "Hb%, TC, DC, ESR - Hemoglobin, Total Count, Differential Count, ESR",
+    "price": 120,
+    "report": "Same day"
+  },
+  {
+    "test": "HbA1c - Glycosylated Haemoglobin",
+    "price": 500,
+    "report": "Same Day"
+  },
+  {
+    "test": "HBsAg - Hepatitis B Surface Antigen",
+    "price": 200,
+    "report": "Same day"
+  },
+  {
+    "test": "HCV - Hepatitis C Virus Antibody",
+    "price": 280,
+    "report": "Same day"
+  },
+  {
+    "test": "HDL- High Density Lipoprotein",
+    "price": 150,
+    "report": "Same day"
+  },
+  {
+    "test": "HIV I & II - Human Immunodeficiency Virus",
+    "price": 300,
+    "report": "Same day"
+  },
+  {
+    "test": "IgE - Immunoglobulin E",
+    "price": 600,
+    "report": "Next Day"
+  },
+  {
+    "test": "Ionic Calcium - Serum",
+    "price": 200,
+    "report": "Same day"
+  },
+  {
+    "test": "iPTH - Intact Parathyroid Hormone",
+    "price": 1200,
+    "report": "Next Day"
+  },
+  {
+    "test": "Iron",
+    "price": 400,
+    "report": "Next Day"
+  },
+  {
+    "test": "K⁺ - Potassium",
+    "price": 200,
+    "report": "Same day"
+  },
+  {
+    "test": "KFT  - Kidney Function Test, Serum",
+    "price": 450,
+    "report": "Same day"
+  },
+  {
+    "test": "LDH - Lactate Dehydrogenase",
+    "price": 450,
+    "report": "Next Day"
+  },
+  {
+    "test": "LDL - Low Density Lipoprotein",
+    "price": 170,
+    "report": "Same day"
+  },
+  {
+    "test": "LFT - Liver Function Test, Serum",
+    "price": 500,
+    "report": "Same day"
+  },
+  {
+    "test": "Lipase - Serum",
+    "price": 450,
+    "report": "Next Day"
+  },
+  {
+    "test": "Lipid Profile - Serum",
+    "price": 500,
+    "report": "Same day"
+  },
+  {
+    "test": "Malarial Antigen Detection (PV/PF) - Antigen Detection",
+    "price": 280,
+    "report": "Same day"
+  },
+  {
+    "test": "Maternal Screening - Dual Marker - 1st\nTrimester",
+    "price": 2000,
+    "report": "4 Days"
+  },
+  {
+    "test": "Maternal Screening - Quadraple Marker  - 2nd\nTrimester",
+    "price": 3500,
+    "report": "4 Days"
+  },
+  {
+    "test": "Maternal Screening - Triple Marker - 2nd\nTrimester",
+    "price": 1800,
+    "report": "4 Days"
+  },
+  {
+    "test": "Mg - Magnesium",
+    "price": 500,
+    "report": "Next Day"
+  },
+  {
+    "test": "Micro Albumin - 24 Hours. Urine",
+    "price": 450,
+    "report": "Next Day"
+  },
+  {
+    "test": "NA⁺ - Serum Sodium",
+    "price": 200,
+    "report": "Same day"
+  },
+  {
+    "test": "Na⁺, K⁺ - Serum Sodium, Potassium",
+    "price": 350,
+    "report": "Same day"
+  },
+  {
+    "test": "NT Pro BNP - N Terminal B Type Natriuretic\nPeptide",
+    "price": 2500,
+    "report": "Next Day"
+  },
+  {
+    "test": "OGTT - Oral Glucose Tolerance Test - Type II\nDiabetes - Gestational Diabetes - 3 Sample",
+    "price": 400,
+    "report": "Next Day"
+  },
+  {
+    "test": "Platelet Count  - Platelets",
+    "price": 80,
+    "report": "Same day"
+  },
+  {
+    "test": "Potassium - 24 Hours. Urine / Random Urine",
+    "price": 250,
+    "report": "Same Day"
+  },
+  {
+    "test": "Pro Calcitonin",
+    "price": 2400,
+    "report": "Next Day"
+  },
+  {
+    "test": "PS for Malaria - Peripheral Blood Smear For Malarial  Antigen Detection",
+    "price": 150,
+    "report": "Same day"
+  },
+  {
+    "test": "PSA Free - Prostate Specific Antigen - Free",
+    "price": 800,
+    "report": "Next Day"
+  },
+  {
+    "test": "PSA Total - Prostate Specific Antigen - Total",
+    "price": 600,
+    "report": "Next Day"
+  },
+  {
+    "test": "PT - INR - Prothrombin Time with INR",
+    "price": 300,
+    "report": "Next Day"
+  },
+  {
+    "test": "RA Factor -Rheumatoid Factor (RA Quantitative), Serum",
+    "price": 350,
+    "report": "Same day"
+  },
+  {
+    "test": "Reticulocyte Count - Retics",
+    "price": 130,
+    "report": "Next Day"
+  },
+  {
+    "test": "Scrub Typhus - IgM Antibody",
+    "price": 1200,
+    "report": "Next Day"
+  },
+  {
+    "test": "Serum Calcium (Ca²⁺) - Total Calcium",
+    "price": 150,
+    "report": "Same day"
+  },
+  {
+    "test": "SGOT (AST) - Aspartate Aminotransferase",
+    "price": 120,
+    "report": "Same day"
+  },
+  {
+    "test": "SGPT (ALT) - Alanine Aminotransferase",
+    "price": 120,
+    "report": "Same day"
+  },
+  {
+    "test": "Sodium - 24 Hours. Urine / Random Urine",
+    "price": 250,
+    "report": "Same Day"
+  },
+  {
+    "test": "T3 - Triiodothyronine",
+    "price": 250,
+    "report": "Next Day"
+  },
+  {
+    "test": "T4 - Thyroxine",
+    "price": 250,
+    "report": "Next Day"
+  },
+  {
+    "test": "TC, DC - Total Count, Differential Count",
+    "price": 80,
+    "report": "Same day"
+  },
+  {
+    "test": "Thyroid - FT3 / FT4",
+    "price": 400,
+    "report": "Next Day"
+  },
+  {
+    "test": "Thyroid Function Test (TFT) (TSH, T3, T4) - Serum",
+    "price": 600,
+    "report": "Next Day"
+  },
+  {
+    "test": "TIBC - Total Iron Binding Capacity",
+    "price": 500,
+    "report": "Next Day"
+  },
+  {
+    "test": "Total Bilirubin - Serum",
+    "price": 110,
+    "report": "Same day"
+  },
+  {
+    "test": "Total Protein - Serum",
+    "price": 120,
+    "report": "Same day"
+  },
+  {
+    "test": "Triglyceride - Serum",
+    "price": 120,
+    "report": "Same day"
+  },
+  {
+    "test": "Trop I - Troponin I - Qualitative",
+    "price": 800,
+    "report": "Next Day"
+  },
+  {
+    "test": "Trop I - Troponin I - Quantitative",
+    "price": 1250,
+    "report": "Next Day"
+  },
+  {
+    "test": "Trop T - Troponin T - Qualitative",
+    "price": 1500,
+    "report": "Next Day"
+  },
+  {
+    "test": "TSH - Thyroid Stimulating Hormone",
+    "price": 250,
+    "report": "Same day"
+  },
+  {
+    "test": "Urea - Serum",
+    "price": 150,
+    "report": "Same day"
+  },
+  {
+    "test": "Uric Acid - Serum",
+    "price": 150,
+    "report": "Same day"
+  },
+  {
+    "test": "Urine (Na⁺, K⁺) - Sodium, Potassium",
+    "price": 300,
+    "report": "Same day"
+  },
+  {
+    "test": "Urine C/S - Urine Culture & Sensitivity",
+    "price": 300,
+    "report": "3 Days"
+  },
+  {
+    "test": "Urine Pregnancy Test - hCG",
+    "price": 100,
+    "report": "Same day"
+  },
+  {
+    "test": "Urine RE/ME - Routine & Microscopy",
+    "price": 100,
+    "report": "Same day"
+  },
+  {
+    "test": "VDRL - Venereal Disease Research Laboratory Test",
+    "price": 110,
+    "report": "Same day"
+  },
+  {
+    "test": "Vitamin B12 - Cyanocobalamine Level",
+    "price": 900,
+    "report": "Next Day"
+  },
+  {
+    "test": "Vitamin D - 25 OH Cholecalciferol",
+    "price": 1000,
+    "report": "Next Day"
+  },
+  {
+    "test": "Widal - Widal Test",
+    "price": 100,
+    "report": "Same day"
+  },
+  {
+    "test": null,
+    "price": null,
+    "report": null
+  },
+  {
+    "test": "17 OHP - 17 OH Progesterone / 17 Hydroxy\nProgesterone - Serum",
+    "price": 1200,
+    "report": "2 Days"
+  },
+  {
+    "test": "A4 - Androstenedione",
+    "price": 1700,
+    "report": "2 Days"
+  },
+  {
+    "test": "Absolute Besofil Count",
+    "price": 120,
+    "report": "Next Day"
+  },
+  {
+    "test": "Absolute Count - CD3 Count - Lymphocyte Mature\nT Cell Marker",
+    "price": 1800,
+    "report": "Next Day"
+  },
+  {
+    "test": "Absolute Count - CD4 Count - Helper T Cell Marker",
+    "price": 1800,
+    "report": "Next Day"
+  },
+  {
+    "test": "ACE- Angiotension Converting Enzyme",
+    "price": 1500,
+    "report": "Next Day"
+  },
+  {
+    "test": "ACLA - Anti Cardiolipin Antibody IgA /IgG/IgM",
+    "price": 700,
+    "report": "Next Day"
+  },
+  {
+    "test": "ACTH - Adrenocorticotropic Hormone",
+    "price": 1800,
+    "report": "2 Days"
+  },
+  {
+    "test": "Adrenaline / Epinephrine - Plasma / 24 Hours.\nUrine",
+    "price": 3000,
+    "report": "11 Days"
+  },
+  {
+    "test": "A.F.B Culture (Automated) - Any Sample",
+    "price": 1100,
+    "report": "6 Weeks"
+  },
+  {
+    "test": "A.F.B Culture (Automated) With Acid Fast\nSuspectibility - Rifampicin And Isoniazid",
+    "price": 4000,
+    "report": "8 Days"
+  },
+  {
+    "test": "A.F.B Culture (Conventional) - Any Sample",
+    "price": 600,
+    "report": "8 Weeks"
+  },
+  {
+    "test": "AFP -Alpha Feto Protein - Amniotic Fluid / CSF",
+    "price": 850,
+    "report": "Next Day"
+  },
+  {
+    "test": "AFP -Alpha Feto Protein - Serum",
+    "price": 750,
+    "report": "Next Day"
+  },
+  {
+    "test": "Albert Stain / KLB Stain - Diphtheria Bacilli\n/Corynebacterium Diphtheria",
+    "price": 300,
+    "report": "3 Days"
+  },
+  {
+    "test": "Alcohol Detection - Random Urine",
+    "price": 1150,
+    "report": "2 Days"
+  },
+  {
+    "test": "Alcohol Level - Serum",
+    "price": 1200,
+    "report": "4 Days"
+  },
+  {
+    "test": "Aldehyde Test - Chopra Test",
+    "price": 400,
+    "report": "3 Days"
+  },
+  {
+    "test": "Aldolase",
+    "price": 1000,
+    "report": "4 Days"
+  },
+  {
+    "test": "Aldosterone",
+    "price": 1900,
+    "report": "2 days"
+  },
+  {
+    "test": "Aldosterone - Plasma Renin Aactivity - Ratio",
+    "price": 5000,
+    "report": "5 Days"
+  },
+  {
+    "test": "Allergy Blood - Profile",
+    "price": 2000,
+    "report": "10 Days"
+  },
+  {
+    "test": "Allergy Drug - Profile",
+    "price": 2500,
+    "report": "5 Days"
+  },
+  {
+    "test": "AMA-M2 - Anti Mitochondrial Antibody",
+    "price": 1600,
+    "report": "2 Days"
+  },
+  {
+    "test": "AMA-M2 - Anti Mitochondrial Antibody - IFA\nMethod (With Titration)",
+    "price": 1700,
+    "report": "5 Days"
+  },
+  {
+    "test": "Ammonia",
+    "price": 900,
+    "report": "Next Day"
+  },
+  {
+    "test": "Amylase - Body Fluid / Urine",
+    "price": 450,
+    "report": "Same Day"
+  },
+  {
+    "test": "ANA-Hep 2 Cells - IFA Method",
+    "price": 1200,
+    "report": "4 Days"
+  },
+  {
+    "test": "ANCA - Anti Neutrophilic Cytoplasmic Antibody -\nIFA Method (With Titration)",
+    "price": 1900,
+    "report": "3 Days"
+  },
+  {
+    "test": "Anti ds DNA Antibody -  Anti Double Stranded DNA\nAntibody - Elisa",
+    "price": 800,
+    "report": "Next Day"
+  },
+  {
+    "test": "Anti ds DNA Antibody -  Anti Double Stranded DNA\nAntibody - IFA Method (With Titration)",
+    "price": 1800,
+    "report": "2 Days"
+  },
+  {
+    "test": "Anti Jo 1 Antibody",
+    "price": 1700,
+    "report": "5 Days"
+  },
+  {
+    "test": "Anti Leptospira Antibody - IgG / IgM",
+    "price": 1000,
+    "report": "Next Day"
+  },
+  {
+    "test": "Anti  Ribonucleoprotein (U1-RNP) Antibody",
+    "price": 1700,
+    "report": "51s1ss Days"
+  },
+  {
+    "test": "Anti Scl 70 - Seleroderma Antibody",
+    "price": 1700,
+    "report": "4 Days"
+  },
+  {
+    "test": "Anti Smith (Sm/RNP) Antibody",
+    "price": 1700,
+    "report": "4 Days"
+  },
+  {
+    "test": "Anti - Tg - Anti Thyroglobulin Antibody",
+    "price": 1000,
+    "report": "Same Day"
+  },
+  {
+    "test": "Anti Thrombin III - Antigenic",
+    "price": 2800,
+    "report": "2 Days"
+  },
+  {
+    "test": "Anti TPO/AMA - Anti Thyroid Peroxide / Anti\nMicrosomal Antibody",
+    "price": 1000,
+    "report": "Next Day"
+  },
+  {
+    "test": "Anti TtG - Anti Tissue Transglutaminase - IgA / IgG\n/ IgM",
+    "price": 1400,
+    "report": "Next Day"
+  },
+  {
+    "test": "APLA - Anti Phospholipid - IgG / IgM",
+    "price": 750,
+    "report": "Next Day"
+  },
+  {
+    "test": "Apo A1 - Apo Lipo Protien - A1",
+    "price": 600,
+    "report": "Next Day"
+  },
+  {
+    "test": "Apo B - Apo Lipo Protien - B",
+    "price": 600,
+    "report": "Next Day"
+  },
+  {
+    "test": "ASCA - Anti Saccharomyces Cerevisiae Antibody\nTitre - IgA / IgG",
+    "price": 2200,
+    "report": "10 Days"
+  },
+  {
+    "test": "ASMA - Anti Smooth Muscle Antibody",
+    "price": 2200,
+    "report": "2 Days"
+  },
+  {
+    "test": "ASMA - Anti Smooth Muscle Antibody - IFA Method\n(With Titration)",
+    "price": 1900,
+    "report": "5 Days"
+  },
+  {
+    "test": "Aspergillus Fumigatus - IgE Level",
+    "price": 1400,
+    "report": "3 Days"
+  },
+  {
+    "test": "Aspergillus Fumigatus - IgG / IgM",
+    "price": 1600,
+    "report": "2 Days"
+  },
+  {
+    "test": "Beta 2 Glycoprotein I - Apo Lipoprotein H - 326\nAmino Acid Polypeptide - IgA / IgG / IgM",
+    "price": 1500,
+    "report": "2 days"
+  },
+  {
+    "test": "Beta 2M - Beta 2 Microglobulin - Serum / Urine",
+    "price": 1400,
+    "report": "Next Day"
+  },
+  {
+    "test": "Beta HCG - Free",
+    "price": 1000,
+    "report": "Next Day"
+  },
+  {
+    "test": "Barr Bodies",
+    "price": 300,
+    "report": "3 Days"
+  },
+  {
+    "test": "Bile Acids",
+    "price": 1700,
+    "report": "5 Days"
+  },
+  {
+    "test": "Biopsy - Block Preparation - Single Block",
+    "price": 300,
+    "report": "6 Days"
+  },
+  {
+    "test": "Biopsy - Block Staining - Single Block",
+    "price": 300,
+    "report": "6 Days"
+  },
+  {
+    "test": "Biopsy - Block Review - Single Block - Block",
+    "price": 300,
+    "report": "4 Days"
+  },
+  {
+    "test": "Biopsy - Block Review - Single Block - Slide",
+    "price": 300,
+    "report": "4 Days"
+  },
+  {
+    "test": "Biopsy - Cell Block - Cytology Reflex",
+    "price": 1200,
+    "report": "11 Days"
+  },
+  {
+    "test": "Biopsy (Tissue Processing) - 1 Block or 1 Slide",
+    "price": 400,
+    "report": "11 Days"
+  },
+  {
+    "test": "Body Fluid (Cytology) Panel 1 - Cell Count, Cell\nType",
+    "price": 200,
+    "report": "Next Day"
+  },
+  {
+    "test": "Body Fluid (Biochemistry) - Glucose, Protein,\nChloride",
+    "price": 450,
+    "report": "Next Day"
+  },
+  {
+    "test": "Body Fluid (Cytology) Panel 2 - Cell Count, Cell Type, A.F.B Stain, Fungal Stain, Gram Stain,\nBiochemistry",
+    "price": 1500,
+    "report": "2 days"
+  },
+  {
+    "test": "Brucella - IgG / IgM",
+    "price": 1200,
+    "report": "3 Days"
+  },
+  {
+    "test": "Brucella DNA Detection PCR - WB EDTA",
+    "price": 4500,
+    "report": "7 Days"
+  },
+  {
+    "test": "C3 - Complement 3",
+    "price": 800,
+    "report": "Next Day"
+  },
+  {
+    "test": "C4 - Complement 4",
+    "price": 800,
+    "report": "Next Day"
+  },
+  {
+    "test": "CA 125 - Ovarian Cancer Marker",
+    "price": 900,
+    "report": "Next Day"
+  },
+  {
+    "test": "CA 15.3 - Breast Cancer Marker",
+    "price": 1000,
+    "report": "Next Day"
+  },
+  {
+    "test": "CA 19.9 - Pancreatic Cancer Marker",
+    "price": 1200,
+    "report": "Next Day"
+  },
+  {
+    "test": "CA 72.4 - Gastric Cancer Marker",
+    "price": 2000,
+    "report": "Next Day"
+  },
+  {
+    "test": "C-ANCA - C-Anti Neutrophil Cytoplasmic Antibody\n(PR3)",
+    "price": 1300,
+    "report": "Next Day"
+  },
+  {
+    "test": "Calcium - 24 Hours. Urine / Spot Urine",
+    "price": 180,
+    "report": "Next Day"
+  },
+  {
+    "test": "Catecholamines - Adrenaline/Epinephrine & Nor Adrenaline/Nor Epinephrine - Plasma / 24 Hours.\nUrine",
+    "price": 6000,
+    "report": "11 Days"
+  },
+  {
+    "test": "CEA - Carcino Embryonic Antigen - Body Fluid",
+    "price": 800,
+    "report": "Next Day"
+  },
+  {
+    "test": "CEA - Carcino Embryonic Antigen - Serum",
+    "price": 700,
+    "report": "Next Day"
+  },
+  {
+    "test": "Ceruloplasmin - Copper Oxidase",
+    "price": 1000,
+    "report": "Next Day"
+  },
+  {
+    "test": "Chikungunya - IgM Antibody",
+    "price": 900,
+    "report": "Next Day"
+  },
+  {
+    "test": "Chlamydia Trachomatis - IgA / IgG / IgM",
+    "price": 1000,
+    "report": "4 Days"
+  },
+  {
+    "test": "Chloride - CSF / 24 Hours. Urine  / Urine",
+    "price": 250,
+    "report": "Next Day"
+  },
+  {
+    "test": "Cholinesterase - Choline Esterase",
+    "price": 800,
+    "report": "Next Day"
+  },
+  {
+    "test": "Chyle Test - Chyluria - Chylomicrons Detection -\nUrine",
+    "price": 250,
+    "report": "3 Days"
+  },
+  {
+    "test": "CMV - Cytomegalo Virus - IgG / IgM - Blood / CSF",
+    "price": 600,
+    "report": "Next Day"
+  },
+  {
+    "test": "CMV DNA Detection PCR - Cytomegalo Virus DNA\nDetection PCR",
+    "price": 4500,
+    "report": "7 Days"
+  },
+  {
+    "test": "Copper - 24 Hours. Urine",
+    "price": 1100,
+    "report": "4 Days"
+  },
+  {
+    "test": "Copper - Serum",
+    "price": 950,
+    "report": "4 Days"
+  },
+  {
+    "test": "C- Peptide - 31-Amino Acid Polypeptide",
+    "price": 850,
+    "report": "Next Day"
+  },
+  {
+    "test": "Cryoglobulin - Serum",
+    "price": 900,
+    "report": "3 Days"
+  },
+  {
+    "test": "Cryptosporidium Parvum / Isospora - Detection -\nStool",
+    "price": 350,
+    "report": "3 Days"
+  },
+  {
+    "test": "Crystals Analysis - Synovial Fluid",
+    "price": 750,
+    "report": "2 Days"
+  },
+  {
+    "test": "Culture & Identification with Stain - Fungus",
+    "price": 1100,
+    "report": "Interim - 1\nWeek, 2 Week Final Report - 3 Week"
+  },
+  {
+    "test": "Culture & Sensitivity (Aerobic - Blood) - Automated",
+    "price": 1400,
+    "report": "Interim - 2 Days / Final - 5 Days"
+  },
+  {
+    "test": "Culture & Sensitivity (Anerobic - Blood) - Automated",
+    "price": 1600,
+    "report": "Interim - 2 Days / Final - 5 Days"
+  },
+  {
+    "test": "Culture & Sensitivity (Paediatric - Blood) - Automated",
+    "price": 1600,
+    "report": "Interim - 2 Days / Final - 5 Days"
+  },
+  {
+    "test": "Culture & Sensitivity (Fungi - Blood) - Automated",
+    "price": 1600,
+    "report": "Interim - 2 Days / Final - 5 Days"
+  },
+  {
+    "test": "Culture & Sensitivity (Aerobic - Blood) -\nConventional",
+    "price": 500,
+    "report": "11 Days"
+  },
+  {
+    "test": "Culture & Sensitivity - Coventional",
+    "price": 350,
+    "report": "4 Days"
+  },
+  {
+    "test": "Cysticercosis/Taenia Solium  - Antibody - IgG -\nCSF / Serum",
+    "price": 1500,
+    "report": "4 Days"
+  },
+  {
+    "test": "Cystatin C",
+    "price": 1500,
+    "report": "3 Days"
+  },
+  {
+    "test": "Cytogenetics Chromosomal Study - Karyotype -\nWhole Blood",
+    "price": 3300,
+    "report": "11 Days"
+  },
+  {
+    "test": "DHEA - Dehydroeplandrosterone",
+    "price": 2700,
+    "report": "4 Days"
+  },
+  {
+    "test": "DHEASO4 - Dehydroeplandrosterone Sulphate",
+    "price": 900,
+    "report": "Next Day"
+  },
+  {
+    "test": "DHT - Di Hydro Testosterone - 5α-\nDihydrotestosterone, Androstanolone, Stanolone",
+    "price": 2500,
+    "report": "3 Days"
+  },
+  {
+    "test": "Diptheria Bacilli Detection - Corynebacterium\nDiphtheriae - Klebs-Löffler Bacillus -  Smear",
+    "price": 450,
+    "report": "3 Days"
+  },
+  {
+    "test": "Drug Monitoring - Carbamazepine - Tegretol",
+    "price": 1200,
+    "report": "4 Days"
+  },
+  {
+    "test": "Drug Monitoring - Digoxin - Lanoxin",
+    "price": 1200,
+    "report": "4 Days"
+  },
+  {
+    "test": "Drug Monitoring - Phenobarbital - Gardinal",
+    "price": 1200,
+    "report": "4 Days"
+  },
+  {
+    "test": "Drug Monitoring - Phenytoin - Eptoin",
+    "price": 1000,
+    "report": "4 Days"
+  },
+  {
+    "test": "Drug Monitoring - Theophylline",
+    "price": 1200,
+    "report": "4 Days"
+  },
+  {
+    "test": "Drug Monitoring - Valporic Acid - Sodium\nValporate",
+    "price": 1000,
+    "report": "4 Days"
+  },
+  {
+    "test": "E2 - Estradiol",
+    "price": 700,
+    "report": "Next Day"
+  },
+  {
+    "test": "E3 - Estriol (Unconjugated)",
+    "price": 1000,
+    "report": "Next Day"
+  },
+  {
+    "test": "EBV NA - Epstein Bar Virus - IgM - To Nuclear\nAntigen",
+    "price": 1800,
+    "report": "9 Days"
+  },
+  {
+    "test": "EBV VCA - Epstein Bar Virus - IgG / IgM",
+    "price": 1800,
+    "report": "9 Days"
+  },
+  {
+    "test": "Echinococcus Detection - Hydatid Cyst Fluid",
+    "price": 800,
+    "report": "3 Days"
+  },
+  {
+    "test": "Echinococcus - IgG - Hydatid Serology",
+    "price": 1500,
+    "report": "4 Days"
+  },
+  {
+    "test": "EGFR - Estimated Glomerular Filtration Rate",
+    "price": 400,
+    "report": "Next Day"
+  },
+  {
+    "test": "Electrophoresis - Protein - Serum",
+    "price": 800,
+    "report": "4 Days"
+  },
+  {
+    "test": "Eosinophil Detection - Sputum / Urine",
+    "price": 250,
+    "report": "2 Days"
+  },
+  {
+    "test": "Factor V - Activity Functional - Proaccelerin",
+    "price": 3000,
+    "report": "6 Days"
+  },
+  {
+    "test": "Factor VIII - Studies",
+    "price": 3000,
+    "report": "6 Days"
+  },
+  {
+    "test": "Factor IX - Activity Functional - Anti Haemophilia\nB",
+    "price": 2000,
+    "report": "6 Days"
+  },
+  {
+    "test": "Filaria Detection - Antibody - Filariasis -\nWuchereria Bancrofti - Serum",
+    "price": 1100,
+    "report": "2 Days"
+  },
+  {
+    "test": "Filaria Detection - Antigen - Filariasis -\nWuchereria Bancrofti - Serum & EDTA",
+    "price": 1200,
+    "report": "2 Days"
+  },
+  {
+    "test": "Filaria Detection - Smear - Filariasis -  Wuchereria\nBancrofti",
+    "price": 400,
+    "report": "2 Days"
+  },
+  {
+    "test": "FAI - Free Androgen Index - Abnormal Androgen\nStatus",
+    "price": 2400,
+    "report": "2 Days"
+  },
+  {
+    "test": "FDP - Fibrin Degeneration Product",
+    "price": 1100,
+    "report": "2 Days"
+  },
+  {
+    "test": "Ferric Chloride Test - Spot Urine",
+    "price": 250,
+    "report": "3 Days"
+  },
+  {
+    "test": "Ferritin",
+    "price": 700,
+    "report": "Next Day"
+  },
+  {
+    "test": "LH - Leutinizing Hormone",
+    "price": 450,
+    "report": "Next Day"
+  },
+  {
+    "test": "FSH - Follicle Stimulating Hormone",
+    "price": 450,
+    "report": "Next Day"
+  },
+  {
+    "test": "PRL - Prolactin",
+    "price": 450,
+    "report": "Next Day"
+  },
+  {
+    "test": "Fibrinogen",
+    "price": 800,
+    "report": "2 Days"
+  },
+  {
+    "test": "FNAC - Deep Organ",
+    "price": 1600,
+    "report": "5 Days"
+  },
+  {
+    "test": "FNAC - Superficial Organ",
+    "price": 1200,
+    "report": "5 Days"
+  },
+  {
+    "test": "FNAC - Review Slide - Per Slide",
+    "price": 500,
+    "report": "5 Days"
+  },
+  {
+    "test": "Fructosamine",
+    "price": 1000,
+    "report": "Next Day"
+  },
+  {
+    "test": "FTA - ABS - Fluorescent Treponemal Antibody\nAbsorption - Syphillis  - IFA Method (With Titration)",
+    "price": 1800,
+    "report": "3 Days"
+  },
+  {
+    "test": "Fungal Stain",
+    "price": 220,
+    "report": "2 Days"
+  },
+  {
+    "test": "GGT - Gamma Glutamyl Transferase",
+    "price": 400,
+    "report": "Next Day"
+  },
+  {
+    "test": "GH -  Growith Hormone / Human Growth Hormone",
+    "price": 850,
+    "report": "Next Day"
+  },
+  {
+    "test": "Gliadin Antibody - IgA / IgG",
+    "price": 1900,
+    "report": "6 Days"
+  },
+  {
+    "test": "GBM - Glomerular Basement Membrane\nAntibody",
+    "price": 1600,
+    "report": "2 Days"
+  },
+  {
+    "test": "GTT - Glucose Tolerance Test - 2 Hours 2 Sample\nfor Glucose",
+    "price": 300,
+    "report": "Next Day"
+  },
+  {
+    "test": "GTT - Glucose Tolerance Test -  2 Hours 3 Sample\nfor Glucose",
+    "price": 400,
+    "report": "Next Day"
+  },
+  {
+    "test": "GTT - Glucose Tolerance Test -  2.5 Hours 5 Sample\nfor Glucose",
+    "price": 600,
+    "report": "Next Day"
+  },
+  {
+    "test": "Hanging Drop Preparation - Micro Organism\nDetection - V. Cholarea - Stool",
+    "price": 250,
+    "report": "2 Days"
+  },
+  {
+    "test": "H. Pylori Ab - Helicobacter Pylori - IgA / IgG / IgM",
+    "price": 1500,
+    "report": "Next Day"
+  },
+  {
+    "test": "H. Pylori Ag - Helicobacter Pylori Antigen - Stool",
+    "price": 1600,
+    "report": "Next Day"
+  },
+  {
+    "test": "HAV - Hepatitis A Virus - IgG / IgM",
+    "price": 750,
+    "report": "Next Day"
+  },
+  {
+    "test": "HBcAb - Hepatitis B Virus - Core Antibody - IgM -\nAnti HBc IgM",
+    "price": 750,
+    "report": "4 Days"
+  },
+  {
+    "test": "HBcAb - Hepatitis B Virus - Core Antibody - Total",
+    "price": 750,
+    "report": "Next Day"
+  },
+  {
+    "test": "HBcAg - Hepatitis B Virus - Core Antigen",
+    "price": 750,
+    "report": "4 Days"
+  },
+  {
+    "test": "HBeAb - Hepatitis B Virus - Envelope Antibody",
+    "price": 750,
+    "report": "Next Day"
+  },
+  {
+    "test": "HBeAg - Hepatitis B Virus -  Envelope Antigen",
+    "price": 750,
+    "report": "Next Day"
+  },
+  {
+    "test": "HBsAb - Hepatitis B Virus -  Surface Antibody",
+    "price": 750,
+    "report": "Next Day"
+  },
+  {
+    "test": "HBsAg - Hepatitis B Virus - Surface Antigen -\nAustralia Antigen Test",
+    "price": 400,
+    "report": "Next Day"
+  },
+  {
+    "test": "HBsAg - Hepatitis B Virus - Surface Antigen -\nAustralia Antigen Test - Chemiluminesence",
+    "price": 700,
+    "report": "2 Days"
+  },
+  {
+    "test": "HBV DNA Viral Load Quantification PCR -\nHepatitis B Virus DNA PCR",
+    "price": 4000,
+    "report": "7 Days"
+  },
+  {
+    "test": "HCV - Hepatitis C Virus  - Antibody  -\nChemiluminesence",
+    "price": 1000,
+    "report": "Next Day"
+  },
+  {
+    "test": "HCV RNA Viral Load Quantification PCR -\nHepatitis C Virus DNA PCR",
+    "price": 4000,
+    "report": "7 Days"
+  },
+  {
+    "test": "HCV Genotyping - Hepatitis C Virus - Genotyping\nStudy - Genotype - 1, 2, 3, 4, 5, 6 - Including All Subsets",
+    "price": 5000,
+    "report": "6 Days"
+  },
+  {
+    "test": "HEV - Hepatitis E Virus - IgG / IgM",
+    "price": 750,
+    "report": "Next Day"
+  },
+  {
+    "test": "Heinz Bodies",
+    "price": 400,
+    "report": "3 Days"
+  },
+  {
+    "test": "Hemosiderin - Iron Storage Complex - Urine",
+    "price": 700,
+    "report": "2 Days"
+  },
+  {
+    "test": "HIV 1 + 2 - Human Immuno Defficiency Virus 1 & 2 -\nChemiluminesence",
+    "price": 750,
+    "report": "2 Days"
+  },
+  {
+    "test": "HIV 1 + 2 Antibody & p24 Antigen Combo",
+    "price": 1400,
+    "report": "5 Days"
+  },
+  {
+    "test": "HIV - I / II - RNA Viral Load Quantification PCR -\nHuman Immuno Defficiency Virus DNA PCR",
+    "price": 4500,
+    "report": "7 Days"
+  },
+  {
+    "test": "HLAB27 - Human Leukocyte Antigen B27",
+    "price": 2200,
+    "report": "2 Days"
+  },
+  {
+    "test": "HLA B27 PCR Study - Human Leukocyte Antigen\nB27 Analysis - PCR Study - EDTA Plasma",
+    "price": 3000,
+    "report": "4 Days"
+  },
+  {
+    "test": "Homocystine - EDTA Plasma / Serum",
+    "price": 1200,
+    "report": "2 Days"
+  },
+  {
+    "test": "Hookworm Detection - Parasitic Infection -\nHelminthiases",
+    "price": 300,
+    "report": "2 Days"
+  },
+  {
+    "test": "HPV DNA Detection PCR - Human Papilloma Virus\nDNA Detection PCR",
+    "price": 2500,
+    "report": "6 Days"
+  },
+  {
+    "test": "HSV 1 + 2 - Herpes Simplex Virus 1 & 2 - IgG / IgM",
+    "price": 600,
+    "report": "Next Day"
+  },
+  {
+    "test": "HSV 1 & 2 DNA Detection PCR - Herpes Simplex\nVirus 1 & 2 DNA Detection PCR",
+    "price": 4500,
+    "report": "7 Days"
+  },
+  {
+    "test": "hs CRP - Cardiac C-Reactive Protein",
+    "price": 800,
+    "report": "2 Days"
+  },
+  {
+    "test": "HTLV 1 + 2 - Human T-cell Lymphotropic\nVirus/Human T-cell Leukemia Lymphoma Virus",
+    "price": 4500,
+    "report": "4 Days"
+  },
+  {
+    "test": "IF - Intrinsic Factor Antibody - IgG",
+    "price": 2300,
+    "report": "2 Days"
+  },
+  {
+    "test": "IF - Intrinsic Factor Antibody - IFA Method (With\nTitration)",
+    "price": 2800,
+    "report": "3 Days"
+  },
+  {
+    "test": "IgA - Immunoglobulin A",
+    "price": 650,
+    "report": "Next Day"
+  },
+  {
+    "test": "IgG - Immunoglobulin G",
+    "price": 650,
+    "report": "Next Day"
+  },
+  {
+    "test": "IgM - Immunoglobulin M",
+    "price": 650,
+    "report": "Next Day"
+  },
+  {
+    "test": "India Ink Preparation - Negetive Stain - CSF",
+    "price": 300,
+    "report": "2 Days"
+  },
+  {
+    "test": "Inhibin - A",
+    "price": 1500,
+    "report": "6 Days"
+  },
+  {
+    "test": "Insulin - Fasting / Post Pandrial",
+    "price": 650,
+    "report": "Next Day"
+  },
+  {
+    "test": "KOH - Potassium Hydroxide - Prepartion for\nFungal Elements",
+    "price": 250,
+    "report": "2 Days"
+  },
+  {
+    "test": "Lactate - CSF / Plasma (Fluoride)",
+    "price": 1100,
+    "report": "Next Day"
+  },
+  {
+    "test": "LD Bodies - Leismania Donovani Bodies - Detection -\nBone Marrow / Whole Blood",
+    "price": 400,
+    "report": "2 Days"
+  },
+  {
+    "test": "LE Cell - Lupus Erythematosus Cell",
+    "price": 200,
+    "report": "2 Days"
+  },
+  {
+    "test": "Leismania - Kala Azar Antibody - IgG / IgM",
+    "price": 800,
+    "report": "Next Day"
+  },
+  {
+    "test": "Leptospira - Detection - Leptospirosis",
+    "price": 600,
+    "report": "2 Days"
+  },
+  {
+    "test": "Lipase - Urine",
+    "price": 500,
+    "report": "Next Day"
+  },
+  {
+    "test": "Lithium",
+    "price": 400,
+    "report": "Next Day"
+  },
+  {
+    "test": "LKM1 - Liver Kidney Microsome 1 Antibody",
+    "price": 1700,
+    "report": "5 Days"
+  },
+  {
+    "test": "LKM1 - Liver Kidney Microsome 1 Antibody - IFA\nMethod (With Titration)",
+    "price": 1900,
+    "report": "5 Days"
+  },
+  {
+    "test": "LP (a) - Lipoprotein a",
+    "price": 900,
+    "report": "Next Day"
+  },
+  {
+    "test": "Lupus Anticoagulent",
+    "price": 1600,
+    "report": "2 Days"
+  },
+  {
+    "test": "MB - Myoglobin - Iron & Oxygen Biding Protein -\nSerum",
+    "price": 1500,
+    "report": "2 Days"
+  },
+  {
+    "test": "MB - Myoglobin - Iron & Oxygen Biding Protein -\nUrine",
+    "price": 1500,
+    "report": "2 Days"
+  },
+  {
+    "test": "Measles - IgG / IgM",
+    "price": 1600,
+    "report": "5 Days"
+  },
+  {
+    "test": "Microsporidium Detection",
+    "price": 300,
+    "report": "2 Days"
+  },
+  {
+    "test": "Mumps - IgG / IgM",
+    "price": 1600,
+    "report": "5 Days"
+  },
+  {
+    "test": "Neisseria Gonorrhoeae - Gonorrhoeae /\nGonococcus / Gonococci Detection",
+    "price": 350,
+    "report": "2 Days"
+  },
+  {
+    "test": "Nocardia Detection",
+    "price": 600,
+    "report": "4 Days"
+  },
+  {
+    "test": "Nor Adrenaline / Nor Epinephrine - Plasma /  24\nHours. Urine",
+    "price": 3000,
+    "report": "11 Days"
+  },
+  {
+    "test": "Osmolality - Serum / Urine",
+    "price": 1000,
+    "report": "Next Day"
+  },
+  {
+    "test": "Osmotic Fragility",
+    "price": 600,
+    "report": "Next Day"
+  },
+  {
+    "test": "P-ANCA - P-Anti Neutrophil Cytoplasmic Antibody\n(MPO)",
+    "price": 1300,
+    "report": "Next Day"
+  },
+  {
+    "test": "PAP Stain - Papanicolaou Stain - Malignant Cell\nDetection - Any Body Fluid",
+    "price": 700,
+    "report": "4 Days"
+  },
+  {
+    "test": "PAP Stain - Papanicolaou Stain - Malignant Cell\nDetection - LBC",
+    "price": 1000,
+    "report": "3 Days"
+  },
+  {
+    "test": "PAPP-A - Pregnancy Associated Plasma Protein",
+    "price": 1200,
+    "report": "2 Days"
+  },
+  {
+    "test": "PCA - Parietal Cell Antibody - IFA Method (With\nTitration)",
+    "price": 1900,
+    "report": "5 Days"
+  },
+  {
+    "test": "Progesterone - P4",
+    "price": 650,
+    "report": "Next Day"
+  },
+  {
+    "test": "Rh Antibody Titre - Anti D Titre",
+    "price": 900,
+    "report": "2 Days"
+  },
+  {
+    "test": "Roma Index - HE4 & CA125 Ratio",
+    "price": 3000,
+    "report": "2 Days"
+  },
+  {
+    "test": "Rota Virus Antigen - Group A Serotypes -\nDetection - Stool",
+    "price": 1100,
+    "report": "Next Day"
+  },
+  {
+    "test": "RSV Ag - Respiratory Syncytial Virus Antigen",
+    "price": 1500,
+    "report": "2 Days"
+  },
+  {
+    "test": "Rubella Virus - German Measles - IgG / IgM",
+    "price": 600,
+    "report": "Next Day"
+  },
+  {
+    "test": "Rubella DNA Detection PCR - Rubella Virus DNA\nDetection PCR",
+    "price": 4000,
+    "report": "7 Days"
+  },
+  {
+    "test": "SAAG - Serum Ascites Albumin Gradient - Body\nFluid & Serum",
+    "price": 500,
+    "report": "2 Days"
+  },
+  {
+    "test": "SHBG - Sex Hormone Binding Globulin",
+    "price": 2200,
+    "report": "3 Days"
+  },
+  {
+    "test": "Sickling test",
+    "price": 250,
+    "report": "2 Days"
+  },
+  {
+    "test": "SLA - Anti Soluble Liver Antigen",
+    "price": 2500,
+    "report": "3 Days"
+  },
+  {
+    "test": "SSA (Soluable Substance A) Antibody - RO Antibody",
+    "price": 1700,
+    "report": "6 Days"
+  },
+  {
+    "test": "SSB (Soluable Substance A) Antibody - LA Antibody",
+    "price": 1700,
+    "report": "6 Days"
+  },
+  {
+    "test": "Syphills - Total Antibody",
+    "price": 900,
+    "report": "3 Days"
+  },
+  {
+    "test": "TB DNA Detection PCR - Mycobacterium\nTuberculosis DNA Detection PCR - Any Sample",
+    "price": 2200,
+    "report": "3 Days"
+  },
+  {
+    "test": "TB Quantiferon - Gamma Interferon - IGRAS",
+    "price": 2500,
+    "report": "4 Days"
+  },
+  {
+    "test": "Testosterone - Free",
+    "price": 850,
+    "report": "Next Day"
+  },
+  {
+    "test": "Testosterone - Total",
+    "price": 700,
+    "report": "Next Day"
+  },
+  {
+    "test": "TG - Thyroglobulin",
+    "price": 1200,
+    "report": "2 Days"
+  },
+  {
+    "test": "Toxic Granules - Peripheral Blood Picture for Toxic\nGranules",
+    "price": 150,
+    "report": "Next Day"
+  },
+  {
+    "test": "Toxoplasma Gondii Virus - IgG / IgM",
+    "price": 600,
+    "report": "Next Day"
+  },
+  {
+    "test": "Toxoplasma Gondii DNA Detection PCR - Rubella\nVirus DNA Detection PCR",
+    "price": 4000,
+    "report": "7 Days"
+  },
+  {
+    "test": "Transferrin",
+    "price": 1000,
+    "report": "2 Days"
+  },
+  {
+    "test": "Transferrin % Saturation - With Iron panel 1",
+    "price": 800,
+    "report": "Next Day"
+  },
+  {
+    "test": "TT - Thrombin Time",
+    "price": 700,
+    "report": "2 Days"
+  },
+  {
+    "test": "Typhi Dot - IgG / IgM - Salmonella Typhi",
+    "price": 400,
+    "report": "Next Day"
+  },
+  {
+    "test": "VZV - Varicella Zoster Virus - IgG / IgM - Serum",
+    "price": 1600,
+    "report": "8 Days"
+  },
+  {
+    "test": "Well Felix Test",
+    "price": 800,
+    "report": "2 Days"
+  },
+  {
+    "test": "Zinc - Serum",
+    "price": 1200,
+    "report": "Next Day"
+  }
+]
