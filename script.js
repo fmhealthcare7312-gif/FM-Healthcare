@@ -39,18 +39,23 @@ async function loadTestPrices() {
 
     render(data);
 
-    searchInput.addEventListener("keyup", () => {
+searchInput.addEventListener("keyup", () => {
 
-        const value = searchInput.value.toLowerCase();
+    const value = searchInput.value.toLowerCase().trim();
 
-        const filtered = data.filter(item => {
-            const testName = (item.test || "").toLowerCase();
-            return testName.includes(value);
-        });
+    const filtered = data.filter(item => {
 
-        render(filtered);
+        if (!item || typeof item.test !== "string") {
+            return false;
+        }
+
+        return item.test.toLowerCase().includes(value);
 
     });
+
+    render(filtered);
+
+});
 
 }
 
