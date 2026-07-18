@@ -1,0 +1,222 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+
+<meta charset="UTF-8">
+
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+<title>Book Appointment | FM Healthcare</title>
+
+<link rel="stylesheet" href="style.css">
+
+<link rel="stylesheet"
+href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.6.0/css/all.min.css">
+
+</head>
+
+<body>
+
+<header class="page-header">
+
+<div class="container">
+
+<h1>Book Appointment</h1>
+
+<p>Schedule your visit with FM Healthcare quickly and easily.</p>
+
+</div>
+
+</header>
+
+<section class="appointment-section">
+
+<div class="appointment-container">
+
+<h2>Appointment Form</h2>
+
+<form id="appointmentForm">
+
+<div class="form-group">
+
+<label>Full Name *</label>
+
+<input
+type="text"
+placeholder="Enter your full name"
+required>
+
+</div>
+
+<div class="form-group">
+
+<label>Mobile Number *</label>
+
+<input
+type="tel"
+placeholder="Enter mobile number"
+required>
+
+</div>
+
+<div class="form-group">
+
+<label>Email</label>
+
+<input
+type="email"
+placeholder="Enter email">
+
+</div>
+
+<div class="form-group">
+
+<label>Age *</label>
+
+<input
+type="number"
+placeholder="Age"
+required>
+
+</div>
+
+<div class="form-group">
+
+<label>Gender</label>
+
+<select>
+
+<option>Male</option>
+
+<option>Female</option>
+
+<option>Other</option>
+
+</select>
+
+</div>
+<div class="form-group">
+
+<label>Select Doctor *</label>
+
+<select required>
+
+<option value="">Choose Doctor</option>
+
+<option>Dr. Abhijit Bhattacharyya</option>
+
+<option>Dr. Sayon Majumder</option>
+
+<option>Dr. Rohit Dan</option>
+
+<option>Dr. Nandita Bhattacharya</option>
+
+<option>Dr. Anjan Bhadra</option>
+
+</select>
+
+</div>
+
+<div class="form-group">
+
+<label>Preferred Date *</label>
+
+<input
+type="date"
+required>
+
+</div>
+
+<div class="form-group">
+
+<label>Preferred Time *</label>
+
+<input
+type="time"
+required>
+
+</div>
+
+<div class="form-group">
+
+<label>Reason for Visit *</label>
+
+<input
+type="text"
+placeholder="Example: Fever, Diabetes, Child Checkup"
+required>
+
+</div>
+
+<div class="form-group">
+
+<label>Additional Notes</label>
+
+<textarea
+rows="5"
+placeholder="Write symptoms or any additional information..."></textarea>
+
+</div>
+
+<button
+type="submit"
+class="appointment-btn">
+
+<i class="fa-solid fa-calendar-check"></i>
+
+Book Appointment
+
+</button>
+
+</form>
+
+</div>
+
+</section>
+<div id="appointmentSuccess" class="success-message" style="display:none;">
+
+    <i class="fa-solid fa-circle-check"></i>
+
+    <h3>Appointment Request Submitted</h3>
+
+    <p>
+        Thank you for choosing <strong>FM Healthcare</strong>.<br>
+        We have received your appointment request.<br>
+        Our team will contact you shortly to confirm your appointment.
+    </p>
+
+</div>
+
+<footer class="page-footer">
+
+    <p>
+        © 2026 FM Healthcare. All Rights Reserved.
+    </p>
+
+</footer>
+
+<script>
+
+document.getElementById("appointmentForm").addEventListener("submit", function(e){
+
+    e.preventDefault();
+
+    document.getElementById("appointmentSuccess").style.display="block";
+
+    this.reset();
+
+    window.scrollTo({
+        top:0,
+        behavior:"smooth"
+    });
+
+});
+
+</script>
+
+<script src="script.js"></script>
+
+</body>
+
+</html>
