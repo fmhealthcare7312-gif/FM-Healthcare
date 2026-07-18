@@ -165,13 +165,13 @@ nav{
 
 display:flex;
 
-gap:35px;
+gap:24px;
 
 }
 
 nav a{
 
-font-size:16px;
+font-size:15px;
 
 font-weight:600;
 
@@ -225,7 +225,7 @@ CALL BUTTON
 
 background:#2E8B57;
 
-padding:14px 24px;
+padding:12px 18px;
 
 border-radius:50px;
 
