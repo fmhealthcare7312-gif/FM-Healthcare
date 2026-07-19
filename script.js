@@ -80,3 +80,38 @@ document.addEventListener("DOMContentLoaded", function () {
     }
 
 });
+/*=========================================
+MENU OVERLAY
+=========================================*/
+
+const overlay = document.querySelector(".menu-overlay");
+
+if(menuToggle && nav && overlay){
+
+    menuToggle.addEventListener("click", function(){
+
+        overlay.classList.toggle("active");
+
+    });
+
+    overlay.addEventListener("click", function(){
+
+        nav.classList.remove("active");
+
+        overlay.classList.remove("active");
+
+    });
+
+    document.querySelectorAll("nav a").forEach(link=>{
+
+        link.addEventListener("click", function(){
+
+            nav.classList.remove("active");
+
+            overlay.classList.remove("active");
+
+        });
+
+    });
+
+}
