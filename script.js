@@ -68,6 +68,7 @@ document.addEventListener("DOMContentLoaded", function () {
 
     const menuToggle = document.querySelector(".menu-toggle");
     const nav = document.querySelector("nav");
+    const overlay = document.querySelector(".menu-overlay");
 
     if(menuToggle && nav){
 
@@ -75,60 +76,20 @@ document.addEventListener("DOMContentLoaded", function () {
 
             nav.classList.toggle("active");
 
+            if(overlay){
+                overlay.classList.toggle("active");
+            }
+
         });
 
     }
 
-});
-/*=========================================
-MENU OVERLAY
-=========================================*/
+    if(overlay){
 
-const overlay = document.querySelector(".menu-overlay");
-
-if(menuToggle && nav && overlay){
-
-    menuToggle.addEventListener("click", function(){
-
-        overlay.classList.toggle("active");
-
-    });
-
-    overlay.addEventListener("click", function(){
-
-        nav.classList.remove("active");
-
-        overlay.classList.remove("active");
-
-    });
-
-    document.querySelectorAll("nav a").forEach(link=>{
-
-        link.addEventListener("click", function(){
+        overlay.addEventListener("click", function(){
 
             nav.classList.remove("active");
-
             overlay.classList.remove("active");
-
-        });
-
-    });
-
-}
-/* ==========================
-   MOBILE MENU
-========================== */
-
-document.addEventListener("DOMContentLoaded", function () {
-
-    const menuBtn = document.querySelector(".menu-toggle");
-    const nav = document.querySelector("nav");
-
-    if(menuBtn && nav){
-
-        menuBtn.addEventListener("click", function(){
-
-            nav.classList.toggle("active");
 
         });
 
