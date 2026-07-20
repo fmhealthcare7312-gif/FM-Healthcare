@@ -1566,3 +1566,55 @@ footer p{
     }
 
 }
+/* ==========================
+   HEADER FIX V1
+========================== */
+
+.menu-toggle{
+display:none;
+cursor:pointer;
+font-size:30px;
+color:#0B4EA2;
+}
+
+@media(max-width:768px){
+
+.navbar{
+
+display:flex;
+
+justify-content:space-between;
+
+align-items:center;
+
+flex-direction:row;
+
+}
+
+.logo{
+
+flex-direction:row;
+
+text-align:left;
+
+}
+
+nav{
+
+display:none;
+
+}
+
+.call-btn{
+
+display:none;
+
+}
+
+.menu-toggle{
+
+display:block;
+
+}
+
+}
