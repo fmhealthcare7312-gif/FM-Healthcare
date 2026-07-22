@@ -957,12 +957,33 @@ justify-content:center;
 }
 
 .logo{
-flex-direction:column;
-text-align:center;
+display:flex;
+flex-direction:row;
+align-items:center;
+gap:10px;
+}
+
+.logo img{
+width:45px;
+height:45px;
 }
 
 .logo h2{
-font-size:28px;
+font-size:22px;
+line-height:1;
+}
+
+.logo p{
+font-size:11px;
+margin-top:2px;
+}
+
+.navbar{
+height:70px;
+padding:0;
+display:flex;
+align-items:center;
+justify-content:space-between;
 }
 
 .hero{
